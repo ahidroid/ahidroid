@@ -85,6 +85,11 @@ const hasJsxRuntime = (() => {
   }
 })();
 
+module.exports = {
+  resolve: {
+      fallback: { crypto: false },
+  },
+  }
 // This is the production and development configuration.
 // It is focused on developer experience, fast rebuilds, and a minimal bundle.
 module.exports = function (webpackEnv) {
