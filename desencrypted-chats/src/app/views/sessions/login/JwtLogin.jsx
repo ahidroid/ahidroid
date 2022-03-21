@@ -176,7 +176,7 @@ const JwtLogin = () => {
                                             navigate('/session/signup')
                                         }
                                     >
-                                        Sign up
+                                        Iniciar Sesion
                                     </Button>
                                 </FlexBox>
                                 <Button
