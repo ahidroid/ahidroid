@@ -45,7 +45,7 @@ const DashboardWelcomeCard = () => {
                 <Icon>trending_up</Icon>
             </Fab>
             <WelcomeBox>
-                welcome back! Watson
+                Bienvenida de nuevo! Watson
             </WelcomeBox>
             <ContentBox>
                 <TextBox>
