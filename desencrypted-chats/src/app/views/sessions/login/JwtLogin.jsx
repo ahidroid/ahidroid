@@ -185,7 +185,7 @@ const JwtLogin = () => {
                                         navigate('/session/forgot-password')
                                     }
                                 >
-                                    Forgot password?
+                                    Recuperar contraseña?
                                 </Button>
                             </ValidatorForm>
                         </ContentBox>
